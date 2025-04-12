@@ -113,13 +113,13 @@ main .heading p{
     font-weight: 600;
 }
 main .main-banner{
-    width: 1500px;
+    width: 70%;
     height: 120px;
     margin-top: 40px;
     background-image: url("../img/optimize\ 1-1.png");
     background-repeat: no-repeat;
     background-size: contain;
-    margin-left: 200px;
+    margin-left: 220px;
 }
 main .main-footer{
     width: 1160px;
